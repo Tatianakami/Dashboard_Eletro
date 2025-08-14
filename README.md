@@ -22,14 +22,6 @@
 - **Download** dos dados filtrados em CSV
 - **Modo Demo**: se nenhum arquivo for enviado, mostra uma base de exemplo
 
-
-<p align="center">
-  <img src="assets/dois.jpg" alt="Gráfico de Vendas" width="600">
-</p>
-
----
-
-
 ## 🗂️ Dicionário de Dados (colunas esperadas)
 | Coluna            | Tipo              | Descrição                                                    |
 |-------------------|-------------------|--------------------------------------------------------------|
