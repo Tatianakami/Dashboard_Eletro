@@ -1,7 +1,7 @@
 # 📊 Dashboard  Eletro
 
 <p align="center">
-  <img src="./assets/dois.jpg" alt="Gráfico de Vendas" width="600">
+  <img src="/dois.jpg" alt="Gráfico de Vendas" width="600">
 </p>
 
 
