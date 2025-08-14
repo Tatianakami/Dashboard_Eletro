@@ -1,8 +1,6 @@
 # 📊 Dashboard  Eletro
 
-<p align="center">
-  <img src="assets/das2.jpg" alt="Banner do Projeto" width="600">
-</p>
+
 > Dashboard interativo para análise de vendas da ** Eletro**, desenvolvido em **Python + Streamlit + Plotly**. Permite **upload da planilha** e gera automaticamente **KPIs, gráficos e filtros**. Inclui **modo demonstração** para visualização imediata sem necessidade de arquivo.
 
 ---
