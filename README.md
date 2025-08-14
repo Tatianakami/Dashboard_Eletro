@@ -21,11 +21,8 @@
 - **Modo Demo**: se nenhum arquivo for enviado, mostra uma base de exemplo
 
 
-<p align="center">
-  <img src="assets/vendasgrafico.jpg" alt="Gráfico de Vendas" width="600">
-</p>
 
----
+
 
 
 ## 🗂️ Dicionário de Dados (colunas esperadas)
