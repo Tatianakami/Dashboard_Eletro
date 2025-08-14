@@ -21,8 +21,11 @@
 - **Modo Demo**: se nenhum arquivo for enviado, mostra uma base de exemplo
 
 
+<p align="center">
+  <img src="assets/dois.jpg" alt="Gráfico de Vendas" width="600">
+</p>
 
-
+---
 
 
 ## 🗂️ Dicionário de Dados (colunas esperadas)
@@ -77,3 +80,4 @@ O projeto inclui um arquivo `Base_Vendas_Exemplo.xlsx` com estrutura idêntica �
 
 ## 📄 Licença
 Este projeto é distribuído sob a licença MIT. Sinta-se à vontade para usar e adaptar internamente.
+
